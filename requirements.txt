@@ -3,4 +3,5 @@ python-dotenv
 dnspython
 python-whois
 aiohttp
-beautifulsoup4 
+beautifulsoup4
+requests
